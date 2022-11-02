@@ -1,1 +1,1 @@
-export const SOCKET_URL = "https://gpt.bibox.in";
+export const SOCKET_URL = "wss://gpt.bibox.in";
